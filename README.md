@@ -3,7 +3,7 @@
 
 实现效果如下 :  
 
-![图片效果](https://github.com/coderXuanhe/JHWaveAnimaton/blob/master/Snip20170620_1.png)    
+![图片效果](https://github.com/coderXuanhe/JHWaveAnimaton/blob/master/Snip20170620_2.png)    
 
 
 
